@@ -1,3 +1,3 @@
 # TO-DO-List
 #### https://murghendra.github.io/TO-DO-List/
-A simple To-do list using HTML, CSS and JS
+A minimalist To-do list application utilizing HTML, CSS, and JavaScript, designed for efficient task management and user-friendly interaction.
